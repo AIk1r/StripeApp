@@ -16,5 +16,8 @@ GET /item/{id}, c помощью которого можно получить п
 Бонусные задачи: 
 
 Запуск используя Docker
+
 Использование environment variables
+
 Просмотр Django Моделей в Django Admin панели
+
