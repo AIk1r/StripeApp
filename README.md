@@ -1,7 +1,7 @@
 # StripeApp
 StripeApi
 
-Команды для запуска: docker-compose up cd .\main_app\   python manage.py runserver
+Команды для запуска: docker-compose up
 
 В проекте включен дебаг режим, ибо я не решил как лучше будет для тестирования его.
 Таблица уже готова и в ней присутствуют 3 вещи. 
